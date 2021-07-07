@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>890971356644-0p4cruguqf1jah2nk5gkc8jtretf06jv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.890971356644-0p4cruguqf1jah2nk5gkc8jtretf06jv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6YnOyQnq2Np3JDnAIXzf6eZSnfNtYl24</string>
+	<key>GCM_SENDER_ID</key>
+	<string>890971356644</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>th.ac.su.ict.wsnp2020.in18.JunkMove</string>
+	<key>PROJECT_ID</key>
+	<string>junkmove-7c010</string>
+	<key>STORAGE_BUCKET</key>
+	<string>junkmove-7c010.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:890971356644:ios:c6ea239bd9b2e1f90adbf1</string>
+</dict>
+</plist>
